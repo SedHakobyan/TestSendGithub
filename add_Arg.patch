@@ -1,0 +1,22 @@
+Index: src/Test.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Test.java	(date 1600081238799)
++++ src/Test.java	(date 1600081238799)
+@@ -0,0 +1,2 @@
++public class Test {
++}
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.gitignore	(date 1600081238799)
++++ .idea/.gitignore	(date 1600081238799)
+@@ -0,0 +1,3 @@
++
++# Default ignored files
++/workspace.xml
+\ No newline at end of file
